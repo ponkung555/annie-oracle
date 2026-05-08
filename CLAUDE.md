@@ -21,6 +21,13 @@ Multi-agent protocol: [`../jeans-oracle/MAW.md`](../jeans-oracle/MAW.md)
 6. Sync findings (publish events) to ARRA Oracle on `localhost:47778` once that pipe is fixed; deferred for now.
 7. **Never `git push --force`.** **Never commit secrets** (`.env`, API keys).
 
+## Source Corpus (Michael's vault)
+
+- **Primary source**: `~/repos/michael-oracle/ψ/second-brain/learnings/` — curated research dispatches with paper citations. **Every Research Report sources from here.** This is where Michael lands his frontier-paper summaries; each file already has a story arc.
+- **Background reference only**: `~/repos/michael-oracle/ψ/second-brain/*.md` (root level) — textbook fundamentals (atomic structure, phase equilibria, polymer properties, etc.). Read these when a frontier topic needs foundational context for the reader, but they are **not** Research Report subjects on their own.
+
+Policy set 2026-05-09 by Jeans (delegated by Poon).
+
 ## Vault Layout (ψ/)
 | Path | Purpose | Owner |
 | :-- | :-- | :-- |
